@@ -176,6 +176,7 @@ body {
     background-color: var(--button-portfolio-bcg);
     font-family: inherit;
     font-weight: 500;
+    padding: 6px 22px;
 }
 .button.active {
     color: #ffffff;
